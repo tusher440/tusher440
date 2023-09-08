@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abir Hossain Tusher</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher440n&label=Views&color=blue&style=plastic" alt="tusher440" /> </p>
 <h3 align="left">I'm a front-end developer from Bangladesh, having 2+ years of cross-platform app experience. I have absolute knowledge of Flutter,Dart. I used Getx & Provider for app state management. I use `SQFLite` or `hive` for local storage.</h3>
 <h1 align="left">About Me :</h1>
 
@@ -10,7 +11,7 @@
 
 - 👯 I want to contribute as **Flutter Developer**
 
-- 👨‍💻 All of my projects are available at (https://github.com/tusher440?tab=repositories)
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/tusher440?tab=repositories)
 
 - 📫 How to reach me **abirhossaintushar.789@gmail.com**
 
