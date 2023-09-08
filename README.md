@@ -11,7 +11,7 @@
 
 - 👯 I want to contribute as **[Flutter Developer]()**
 
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/tusher440?tab=repositories)
+- 👨‍💻 All of my projects are available at [tusher440](https://github.com/tusher440?tab=repositories)
 
 - 📫 How to reach me **abirhossaintushar.789@gmail.com**
 
