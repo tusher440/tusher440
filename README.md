@@ -10,7 +10,7 @@
 
 - 👯 I want to contribute as **Flutter Developer**
 
-- 👨‍💻 All of my projects are available at [tusher440](tusher440)
+- 👨‍💻 All of my projects are available at [[tusher440](tusher440)](https://github.com/tusher440)
 
 - 📫 How to reach me **abirhossaintushar.789@gmail.com**
 
