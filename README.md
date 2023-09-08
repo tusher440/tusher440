@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abir-hossain-tusher-a7061015b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abir-hossain-tusher-a7061015b" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004607957450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004607957450" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004607957450" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004607957450" height="30" width="40" /></a>
 <a href="https://instagram.com/abir_hossain_tusher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir_hossain_tusher" height="30" width="40" /></a>
 <a href="https://twitter.com/789_abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="789_abir" height="30" width="40" /></a>
 <a href="https://medium.com/@abirdhk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abirdhk" height="30" width="40" /></a>
