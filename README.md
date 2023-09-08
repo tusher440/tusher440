@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on an **E-Commerce app**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning [Java](https://www.tutorialspoint.com/java) & [BLoC](https://bloclibrary.dev/#/gettingstarted)
 
-- 👯 I want to contribute as **Flutter Developer**
+- 👯 I want to contribute as **[Flutter Developer]()**
 
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/tusher440?tab=repositories)
 
