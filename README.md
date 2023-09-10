@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abir Hossain Tusher</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusher440n&label=Views&color=blue&style=plastic" alt="tusher440" /> </p>
-<h3 align="left">I'm a front-end developer from Bangladesh, having 2+ years of cross-platform app experience. I have absolute knowledge of Flutter & Dart. I use Getx & Provider for app state management. I use `SQFLite` or `hive` for local storage.</h3>
+<h3 align="left">I'm a front-end developer from Bangladesh, having 1+ years of cross-platform app experience. I have absolute knowledge of Flutter & Dart. I use Getx & Provider for app state management. I use `SQFLite` or `hive` for local storage.</h3>
 <h1 align="left">About Me :</h1>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7YnMi6xzMn02-79Rf2CW7k56Hq6jFOJ-IA&usqp=CAU">
